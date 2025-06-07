@@ -1,0 +1,13 @@
+default partial alphanumeric_keys
+xkb_symbols "basic" {
+    include "us"
+    name[Group1] = "Icelandic (US)";
+
+    key <AC12> { [ slash, question, dead_acute, dead_acute ] };
+    key <AC01> { [ a, A, ae, AE] };
+    key <AD09> { [ o, O, odiaeresis, Odiaeresis ] };
+    key <AD10> { [ p, P, thorn, THORN ] };
+    key <AC03> { [ d, D, eth, ETH ] };
+
+    include "level3(ralt_switch)"
+};
