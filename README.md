@@ -1,7 +1,7 @@
 # xkb-us-is-layout
 This is a keyboard layout based on the US keyboard, but also allows inputting Icelandic letters. I've made this because coding with the standart layout is infuriating  
 
-(I can live with " being on shift-a, but why shift parentheses to the left? why move the colon down? and don't even get me started on the square/curly bracket position)
+(I can live with " being on shift-2, but why shift parentheses to the left? why move the colon down? and don't even get me started on the square/curly bracket position)
 
 ## Mappings
 <img src="layout.png" />
