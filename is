@@ -3,7 +3,7 @@ xkb_symbols "basic" {
     include "us"
     name[Group1] = "Icelandic (US)";
 
-    key <AC12> { [ slash, question, dead_acute, dead_acute ] };
+    key <AC12> { [ backslash, bar, dead_acute, dead_acute ] };
     key <AC01> { [ a, A, ae, AE] };
     key <AD09> { [ o, O, odiaeresis, Odiaeresis ] };
     key <AD10> { [ p, P, thorn, THORN ] };
