@@ -9,7 +9,7 @@ This is a keyboard layout based on the US keyboard, but also allows inputting Ic
 AltGr-A => æ  
 AltGr-D => ð  
 AltGr-O => ö (screw this letter in particular)  
-AltGr-/ => ´ dead key, úsé ín cómbínátíón wíth vówéls!  
+AltGr-\\ => ´ dead key, úsé ín cómbínátíón wíth vówéls!  
 AltGr-P => þ
 
 ## Install Instructions
