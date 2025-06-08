@@ -17,4 +17,4 @@ AltGr-P => þ
 1. Head over to /usr/share/X11/xkb/symbols
 2. Copy the contents of the `is` file in this repo and replace the topmost layout (from `default partial alphanumeric_keys` to `};`) with that
 3. End your current session (aka log out).
-4. The new layout will replace the standart Icelandic layout.
+4. The new layout will replace the standard Icelandic layout.
